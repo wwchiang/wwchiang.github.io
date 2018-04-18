@@ -232,7 +232,7 @@ input.input100 {
 .m1-txt1 {
   font-family: Barlow-Bold;
   font-size: 25px;
-  color: #999999;
+  color: #ffffff;
   line-height: 1.2;
 }
 
@@ -289,7 +289,7 @@ input.input100 {
 /*//////////////////////////////////////////////////////////////////
 [ Background ]*/
 .bg0 {background-color: #fff;}
-.bg1 {background-color: rgba(255,255,255,0.8);}
+.bg1 {background-color: rgba(255,255,255,0.3);}
 
 .bg-img1 {
   background-position: center;
