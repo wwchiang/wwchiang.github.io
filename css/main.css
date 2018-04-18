@@ -219,6 +219,16 @@ input.input100 {
 
 /*//////////////////////////////////////////////////////////////////
 [ M-Text 16 - 25 ]*/
+.main-title-txt {
+  font-family: Barlow-Bold;
+  font-size: 35px;
+  color: #ffffff;
+  line-height: 1.2;
+}
+
+
+/*//////////////////////////////////////////////////////////////////
+[ M-Text 16 - 25 ]*/
 .m1-txt1 {
   font-family: Barlow-Bold;
   font-size: 25px;
