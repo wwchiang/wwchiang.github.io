@@ -9,11 +9,12 @@ body{
 }
 
 .CartContainer{
-	width: 70%;
+	width: 60%;
 	height: 90%;
 	background-color: #ffffff;
     border-radius: 20px;
     box-shadow: 0px 10px 20px #1687d933;
+	margin: 15px;
 }
 
 .Header{
@@ -57,10 +58,15 @@ body{
 	height: 100%;
 	width: 24%;
 }
+.about_groceries{
+	height: 100%;
+	width: 30%;
+}
 .title{
+	white-space: nowrap;
 	padding-top: 10px;
 	line-height: 10px;
-	font-size: 32px;
+	font-size: 30px;
 	font-family: 'Open Sans';
 	font-weight: 800;
 	color: #202020;
